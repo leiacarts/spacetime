@@ -19,8 +19,6 @@ To use Javascript in conjunction with the p5 library to visually convey data.
 
 ## Features
 
-* Javascript
-* p5 library
 * Visual clock movement
 * Time-telling mechanisms
 * Embdedded NASA satellite recordings
